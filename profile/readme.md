@@ -7,5 +7,5 @@
 
 ## 🔮 지도기반 스포츠강좌 정보 제공 서비스 `헬로핏`
 ### ✨ 2024년 국민체육진흥공단 공공데이터 활용 경진 대회 
-### 📅 개발 기간 : 2024.11.03 ~ 2024.11.29
-### 📌 서비스 링크 : [https://hello-fit.vercel.app](https://hello-fit.vercel.app/)
+### 📅 개발 기간 : 2024.11.03 ~ 2024.12.04
+### 📌 서비스 링크 : [https://www.hellofit.site](https://www.hellofit.site/)
